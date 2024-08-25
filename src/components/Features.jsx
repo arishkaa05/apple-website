@@ -19,7 +19,6 @@ const Features = () => {
       }
     })
 
-
     animateWithGsap('features_title', {
       y: 0,
       opacity: 1
