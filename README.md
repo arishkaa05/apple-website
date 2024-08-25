@@ -1,7 +1,9 @@
 # Apple iPhone Website
 
 This is a website inspired by the Apple's iPhone 15 Pro page using [React](https://react.dev/) + [Vite](https://vitejs.dev/).
+
 ![apple website](/public/assets/images/intro.png)
+
 ## Features
 
  3D Model: A 3D model of the iPhone, created using [React Three Fiber](https://docs.pmnd.rs/react-three-fiber/) and [Drei](https://docs.pmnd.rs/react-three-fiber/api/drei) for a visually appealing and immersive experience.
